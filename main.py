@@ -2,7 +2,10 @@ import re
 from pdfminer.high_level import extract_pages, extract_text
 
 text = extract_text("sample.pdf")
-print(text)
+
+single_line_text = text.replace("\n", "")
+
+print(single_line_text)
 
 # pattern = re.compile(r"")
 # matches = pattern.findAll(text)

@@ -1,4 +1,8 @@
-# NOT READY YET, MIGHT CHANGE SEVERAL THINGS! :exclamation:
+# Not ready yet, Might change several things. The rest of the file is for later. :no_mouth:
+
+This is something I've been able to achieve so far but it is still not inside this repo. I made some tests outside of the repo with some other python programs.
+
+![Proof of what could be achieved](./img/test.png)
 
 # PDF Summarization using Python and AI
 
