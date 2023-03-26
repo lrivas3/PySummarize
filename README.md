@@ -1,3 +1,5 @@
+# NOT READY YET, MIGHT CHANGE SEVERAL THINGS! :exclamation:
+
 # PDF Summarization using Python and AI
 
 This project is designed to assist students in summarizing their class material. The project uses Python and AI to analyze PDF documents and generate summaries of the text. The summaries can be used by students to study and review the material covered in class.
