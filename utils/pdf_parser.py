@@ -1,7 +1,7 @@
-import re
+# import re
 from pdfminer.high_level import extract_pages, extract_text
 
-text = extract_text("./data/input/sample.pdf")
+text = extract_text("../data/input/sample.pdf")
 
 single_line_text = text.replace("\n", "")
 
